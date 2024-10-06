@@ -107,7 +107,6 @@
       }
     }
   },
-  "defaultProject": "Garden-Web-App",
   "cli": {
     "analytics": "fb4e221c-39d5-4dbd-bca1-b0e1fb340f5d"
   }
